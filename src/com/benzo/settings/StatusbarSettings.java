@@ -54,7 +54,7 @@ public class StatusbarSettings extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.BENZO;
+        return MetricsProto.MetricsEvent.CAFEX;
     }
 
     public static final BaseSearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =

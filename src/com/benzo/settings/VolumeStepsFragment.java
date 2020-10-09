@@ -79,7 +79,7 @@ public class VolumeStepsFragment extends SettingsPreferenceFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.BENZO;
+        return MetricsEvent.CAFEX;
     }
 
     @Override
